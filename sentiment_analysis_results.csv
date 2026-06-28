@@ -1,0 +1,6 @@
+Review_ID,Product,Review_Text,Compound_Score,Sentiment_Result
+1,Wireless Headphones,"Absolutely amazing sound quality! I love these headphones so much, highly recommend.",0.9125,Positive
+2,Smart Watch,"The watch looks nice, but the battery life is incredibly disappointing. It dies in 4 hours.",-0.5913,Negative
+3,Phone Case,"It is an okay product. Nothing spectacular, just a basic phone case that does the job.",0.2263,Positive
+4,Laptop,Terrible customer service and the screen arrived cracked. Do not buy this garbage!,-0.5255,Negative
+5,Coffee Maker,"Perfect build quality, works like a charm. Very happy with this purchase.",0.9168,Positive
